@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="https://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title><![CDATA[VideoElephant]]></title>
+        <link>https://mrss.videoelephant.com/</link>
+        <description><![CDATA[VideoElephant MRSS Feed]]></description>
+        <pubDate>Wed, 19 Feb 2020 20:49:23 +0000</pubDate>
+        <item>
+            <guid isPermaLink="false">6d58eafce68e88355a9ddc1e7c28e352</guid>
+            <title><![CDATA[Ana de Armas thrilled to play Marilyn Monroe in 'groundbreaking' film]]></title>
+            <description><![CDATA[Ana de Armas has described her upcoming performance as Marilyn Monroe in biopic Blonde as "groundbreaking".]]></description>
+            <pubDate>Wed, 19 Feb 2020 20:31:17 +0000</pubDate>
+            <category><![CDATA[celebrity, entertainment]]></category>
+            <enclosure url="https://s3.amazonaws.com/ve1/0245b8f37e986805c90b8412dd036bad.mp4" length="50" type="video/mp4" />
+            <media:content type="video/mp4" url="https://s3.amazonaws.com/ve1/0245b8f37e986805c90b8412dd036bad.mp4" duration="50" lang="en">
+                <media:category><![CDATA[celebrity, entertainment]]></media:category>
+                <media:tags><![CDATA[film,movie,English,hollywood,actress,Cuban,interview,Havana,vanity fair,marilyn monroe,biopic,Role,Flick,Ana De Armas,Groundbreaking,Andrew Dominik]]></media:tags>
+                <media:keywords><![CDATA[film,movie,English,hollywood,actress,Cuban,interview,Havana,vanity fair,marilyn monroe,biopic,Role,Flick,Ana De Armas,Groundbreaking,Andrew Dominik,VideoElephant]]></media:keywords>
+                <media:thumbnail url="https://s3.amazonaws.com/ve1/5e4243a2671ce0a2b3498d14549165ea_1.jpg" width="1280" height="720" />
+                <media:credit role="producer" scheme="urn:ebu"><![CDATA[Cover Media]]></media:credit>
+            </media:content>
+        </item>
+        <item>
+            <guid isPermaLink="false">c20825f3c9ed2e6541fd66c99c0b354e</guid>
+            <title><![CDATA[The Connection Between Sugar And Sleep]]></title>
+            <description><![CDATA[The analysis can be found in the 'Journal of the American Heart Association.']]></description>
+            <pubDate>Wed, 19 Feb 2020 20:19:03 +0000</pubDate>
+            <category><![CDATA[health]]></category>
+            <enclosure url="https://s3.amazonaws.com/ve1/2f873f947d063560d703d8fb84956c0d.mp4" length="83" type="video/mp4" />
+            <media:content type="video/mp4" url="https://s3.amazonaws.com/ve1/2f873f947d063560d703d8fb84956c0d.mp4" duration="83" lang="en">
+                <media:category><![CDATA[health]]></media:category>
+                <media:tags><![CDATA[heart,health,sugar,World News,food news,Us News,American Medical Association,AMA,International News,Global News,health news,food facts,food nutrition,American Heart Association,national news,heart facts,american news,Lifestyle news,health facts,healthy foods,healthy diets,bb-cwchannel,bbn,bbn news,types of diets,aa-healthwire,heart news,nutrition news,sugar news,heart studies,sugar stories,heart stories,heart reports]]></media:tags>
+                <media:keywords><![CDATA[heart,health,sugar,World News,food news,Us News,American Medical Association,AMA,International News,Global News,health news,food facts,food nutrition,American Heart Association,national news,heart facts,american news,Lifestyle news,health facts,healthy foods,healthy diets,bb-cwchannel,bbn,bbn news,types of diets,aa-healthwire,heart news,nutrition news,sugar news,heart studies,sugar stories,heart stories,heart reports,VideoElephant]]></media:keywords>
+                <media:thumbnail url="https://s3.amazonaws.com/ve1/6bd2bcd13da3eb828a9a9684055fccf6_1.jpg" width="1280" height="720" />
+                <media:credit role="producer" scheme="urn:ebu"><![CDATA[BBN - Health News]]></media:credit>
+            </media:content>
+        </item>
+    </channel>
+</rss>

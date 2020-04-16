@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:media="https://search.yahoo.com/mrss/">
+    <channel>
+        <title>FUNNY VIDEOS</title>
+        <description>Funny Videos collection </description>
+        <link>https://funnyvideos.com</link>
+        <pubDate>Wed, 19 Feb 2020 20:49:23 +0000</pubDate>
+        <item>
+            <title>Funny Video 1</title>
+            <description>Funny Video 1 description</description>
+            <link>https://funnyvideos.com/videos/video1.html</link>
+            <pubDate>Wed, 25 Mar 2020 12:00:31 +0000</pubDate>
+            <media:content url="https://funnyvideos.com/videos/video1.mp4" type="video/mp4" medium="video">
+                <media:title>Video 1 title</media:title>
+                <media:description>Video 1 description</media:description>
+                <media:thumbnail url="https://funnyvideos.com/videos/video1.png" />
+            </media:content>
+        </item>
+
+        <item>
+            <title>Funny Video 2</title>
+            <description>Funny Video 2 description</description>
+            <link>https://funnyvideos.com/videos/video2.html</link>
+            <pubDate>Wed, 25 Mar 2020 12:00:31 +0000</pubDate>
+            <media:content url="https://funnyvideos.com/videos/video2.mp4" type="video/mp4" medium="video">
+                <media:title>Video 2 title</media:title>
+                <media:description>Video 2 description</media:description>
+                <media:thumbnail url="https://funnyvideos.com/videos/video2.png" />
+            </media:content>
+        </item>
+
+        <item>
+            <title>Funny Video 3</title>
+            <description>Funny Video 3 description</description>
+            <link>https://funnyvideos.com/videos/video3.html</link>
+            <pubDate>Wed, 25 Mar 2020 12:00:31 +0000</pubDate>
+            <media:content url="https://funnyvideos.com/videos/video3.mp4" type="video/mp4" medium="video">
+                <media:title>Video 3 title</media:title>
+                <media:description>Video 3 description</media:description>
+                <media:thumbnail url="https://funnyvideos.com/videos/vide3.png" />
+            </media:content>
+        </item>
+
+   
+    </channel>
+</rss>
